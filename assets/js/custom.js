@@ -132,7 +132,7 @@ contactForm.addEventListener("submit", (e) => {
       message,
     }),
   };
-  fetch("/contact-me/", options)
+  fetch("https://tamsay-resume.herokuapp.com/contact-me/", options)
     .then((resp) => resp.json())
     .then((data) => {
       loader.classList.remove("show");
