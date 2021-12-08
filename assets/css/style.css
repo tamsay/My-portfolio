@@ -149,7 +149,7 @@ li {
     background-color: black;
     padding: 24px 16px;
     position: fixed;
-    height: 100vh;
+    height: 100%;
     width: 260px;
     /* width: 17.5%; */
     z-index: 5;

@@ -55,7 +55,7 @@ $(function () {
             Welcome & Header Height
     =========================================================================*/
   $("#welcome").css({ height: $(window).height() + "px" });
-  $(".header").css({ height: $(window).height() + "px" });
+  // $(".header").css({ height: $(window).height() + "px" });
 
   /*=========================================================================
             Magnific Popup Functions
