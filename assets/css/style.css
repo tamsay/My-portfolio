@@ -211,7 +211,7 @@ li {
     color: #FFF;
 }
 .header .social-icons ul li a:hover{
-    color: #f74470;
+    color: #202A44;
 }
 
 .header .social-icons ul li a i {
@@ -249,7 +249,7 @@ li {
     transition: all .3s ease-in-out;
 }
 .header .main-nav ul li a:hover {
-    color: #f74470;
+    color: #202A44;
     text-decoration: none;
 }
 .header .main-nav ul li a:focus {
@@ -279,7 +279,7 @@ li {
 .header .copyright p a:hover{
     text-decoration: none;
     font-weight: 500;
-    color: #f74470;
+    color: #202A44;
 
 }
 .header .copyright .images-div{
@@ -412,7 +412,7 @@ li {
 }
 
 .main-content section .section-header h2 {
-    color: #f74470;
+    color: #202A44;
     display: inline-block;
     font-family: Cambria, 'Poppins', sans-serif;
     font-size: 20px;
@@ -507,7 +507,7 @@ li {
 .about .skills-items-wrapper .skill-item {
     margin: 8px 16px 8px 0rem;
     cursor: pointer;
-    border-bottom: 1px solid #f74470;
+    border-bottom: 1px solid #202A44;
     font-family: Cambria, 'Poppins', sans-serif;
     font-size: 16px;
     font-weight: 450;
