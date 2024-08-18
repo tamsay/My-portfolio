@@ -6,11 +6,6 @@
 [Hosted Link](https://longe-temitope-resume.netlify.app/)
 
 
-## Video Demo
-
-<img src="my-resume-netlify.gif" alt="demo" width=""/>
-
-
 ## Author
 
 Longe Temitope
